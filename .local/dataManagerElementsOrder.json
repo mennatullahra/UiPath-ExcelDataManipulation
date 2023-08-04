@@ -1,0 +1,31 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "arr_summarize&Sequence_3",
+        "dt_finalData&Sequence_1",
+        "SumSalary&Sequence_3",
+        "filePath&Sequence_1",
+        "ResultPath&Sequence_1",
+        "dt_ModifiedData&Sequence_1",
+        "femaleNum&Sequence_1",
+        "maleNum&Sequence_1",
+        "Avg&Sequence_3",
+        "dt_EmployeeData&Sequence_3"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
